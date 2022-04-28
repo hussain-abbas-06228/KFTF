@@ -1,0 +1,37 @@
+.contact-number {
+    display: none;
+}
+
+ul.top-menu.text-right.list-inline {
+    display: none;
+}
+
+.logoMain{
+    width: 100%;
+    margin-top: -33px;
+    margin-bottom: -30px;
+}
+
+p.tag-line {
+    margin-bottom: 0 !important;
+    margin-top: 40px;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.category-box {
+    background-size: cover;
+    margin-bottom: 30px;
+    min-height: 255px;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background-color: #75757530;
+    border-radius: 0;
+}
+
+.category-box .content{
+    text-align: center;
+    margin-top: 0px
+}
